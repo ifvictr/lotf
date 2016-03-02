@@ -1,10 +1,10 @@
 @font-face{
     font-family: "AnnieUseYourTelescope";
-    src: url("../fonts/AnnieUseYourTelescope.ttf");
+    src: url(../fonts/AnnieUseYourTelescope.ttf);
 }
 body{
     background-attachment: fixed;
-    background-image: url("../images/wallpaper.png");
+    background-image: url(../images/wallpaper.png);
     background-repeat: no-repeat;
 }
 #top iframe{
